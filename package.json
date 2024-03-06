@@ -1,0 +1,23 @@
+{
+  "name": "nobloqueante",
+  "version": "1.0.0",
+  "description": "programa no bloqueante",
+  "main": "noblock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randall1802/nobloqueante_rihs.git"
+  },
+  "keywords": [
+    "no",
+    "bloqueante"
+  ],
+  "author": "Randy Ivan Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randall1802/nobloqueante_rihs/issues"
+  },
+  "homepage": "https://github.com/Randall1802/nobloqueante_rihs#readme"
+}
